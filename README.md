@@ -16,7 +16,7 @@ An Android App to Encrypt/Decrypt and Hashing of text. Various Encryption and Ha
 
 ### SplashScreen:
 
-<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/SplashScreen.jpg" width="300" height="500">
+<center><img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/SplashScreen.jpg" width="300" height="500"></center>
 
 ### HomeScreen
 
