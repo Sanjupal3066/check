@@ -7,7 +7,7 @@ An Android App to Encrypt/Decrypt and Hashing of text. Various Encryption and Ha
 3. Caesar Cipher
 4. Vigenere Cipher
 5. Play Fair
-## Hashing Methods Supprted:
+## Hashing Methods Supported:
 1. MD5
 2. SHA-256
 3. SHA-512
@@ -17,20 +17,20 @@ An Android App to Encrypt/Decrypt and Hashing of text. Various Encryption and Ha
 ### SplashScreen:
 
 <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/SplashScreen.jpg" width="400" height="600">
-![SplashScreen](https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/SplashScreen.jpg)
 
 ### HomeScreen
 
-![HomeScreen](https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/HomeScreen.jpg)
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/HomeScreen.jpg" width="400" height="600">
 
 ### Encryption
 
-![Encryption1](https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption1.jpg)
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption1.jpg" width="400" height="600">
 
-![Encryption2](https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption2.jpg)
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption2.jpg" width="400" height="600">
 
 ### Hashing
 
-![Hashing1](https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash1.jpg)
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash1.jpg" width="400" height="600">
 
-![Hashing2](https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash2.jpg)
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash2.jpg" width="400" height="600">
+
