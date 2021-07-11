@@ -20,17 +20,17 @@ An Android App to Encrypt/Decrypt and Hashing of text. Various Encryption and Ha
 
 ### HomeScreen
 
-<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/HomeScreen.jpg" width="300" height="600">
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/HomeScreen.jpg" width="300" height="500">
 
 ### Encryption
 
-<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption1.jpg" width="300" height="600">
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption1.jpg" width="300" height="500">
 
-<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption2.jpg" width="300" height="600">
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption2.jpg" width="300" height="500">
 
 ### Hashing
 
-<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash1.jpg" width="300" height="600">
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash1.jpg" width="300" height="500">
 
-<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash2.jpg" width="300" height="600">
+<img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash2.jpg" width="300" height="500">
 
