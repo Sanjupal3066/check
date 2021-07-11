@@ -14,11 +14,13 @@ An Android App to Encrypt/Decrypt and Hashing of text. Various Encryption and Ha
 
 ## Screenshots:
 
-### SplashScreen:
 
 <p float="left">
+  
+### SplashScreen:
   <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/SplashScreen.jpg" width="350" />
-  <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/SplashScreen.jpg" width="350" /> 
+###HomeScreen:
+  <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/HomeScreen.jpg" width="350" /> 
 </p>
 
 ### HomeScreen
