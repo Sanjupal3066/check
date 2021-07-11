@@ -12,24 +12,24 @@ An Android App to Encrypt/Decrypt and Hashing of text. Various Encryption and Ha
 2. SHA-256
 3. SHA-512
 
-## Screenshots:
+# Screenshots:
 
-### SplashScreen
+## SplashScreen
   
 <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/SplashScreen.jpg" width="325" height="500"/>
 
 
-### HomeScreen
+## HomeScreen
 
 <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/HomeScreen.jpg" width="325" height="500">
 
-### Encryption
+## Encryption
 
 <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption1.jpg" width="325" height="500">
 
 <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Encryption2.jpg" width="325" height="500">
 
-### Hashing
+## Hashing
 
 <img src="https://raw.githubusercontent.com/Sanjupal3066/EHCF-Project/main/Screenshot/Hash1.jpg" width="325" height="500">
 
